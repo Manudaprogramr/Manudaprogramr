@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @Manudaprogramr / @MrVersatile247
-- 👀 I’m interested in software development.
-- 🌱 I’m a COMPUTER SCIENCE graduate from Southwestern College KS.  
-- 💞️ I am currenlty developing a couple of projects and they will be available on my personal website www.emmanuelmidi.com.
-- 📫 Email admin@EmmanuelMidi.com
+# 👋🏽 Hey there, I’m Emmanuel Midi — aka DjEmdy24
 
-<!---
-Manudaprogramr/Manudaprogramr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🇭🇹 Born in Haiti | 🇺🇸 Built in the USA  
+🎓 B.S. Computer Science | 💻 Web Developer | 🎧 Cultural Creator  
+
+---
+
+## 🔧 Tech Stack
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks:** Firebase, Node.js (learning React)
+- **Tools:** Git, Canva, Figma, Shopify, Printify
+
+---
+
+## 🚀 What I’m Working On
+- **🌱 BrightSeed** – App (Tell you more soon)
+- **📘 TR3ple Threat** – A web dev guide for beginners. (Written differently) 
+- **🛍️ Wayal Merch** – Diaspora-rooted streetwear & culture commerce  
+- **🌐 EmmanuelMidi.com** – My personal site + digital autobiography
+
+---
+
+## 🧠 About Me
+I use tech to tell stories, build bridges, and uplift legacy.  
+Every project I work on blends **culture**, **creativity**, and **code**.
+
+> *"We don’t start with privilege. We start with purpose."*  
+> — Wayal Mindset
+
+---
+
+## 🌍 Connect With Me
+📧 Email: admin@emmanuelmidi.com  
+🌐 Website: [www.emmanuelmidi.com](https://www.emmanuelmidi.com)  
+🔗 LinkedIn: [linkedin.com/in/emmanuel-midi-43a3bb240](https://linkedin.com/in/emmanuel-midi-43a3bb240)
